@@ -1,0 +1,34 @@
+th{
+    width: 200px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid gray;
+    height: 20px;
+    
+}
+p{
+    text-align: center;
+}
+strong{
+    font-size: 20px;
+}
+img{
+    width: 68%;
+    padding-top: 40px;
+}
+.s{
+    font-size: 35px;
+}
+th:hover{
+    background-color: orangered;
+    font-size: 20px;
+    cursor: pointer;
+    
+}
+a{
+    background-color: black;
+   
+    color:white;
+}
+a:hover{
+    background-color: seagreen;
+}
